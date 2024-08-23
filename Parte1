@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+ 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mercado Livre</title>
+    <link rel="stylesheet" href="css/Prototipoo.css">
+</head>
+ 
+<body>
+    <header>
+    <div class="header-container">
+        <div class="logomerc">
+            <img src="img/the-eagle-logo.jpg" alt="Logo Mercado Livre">
+        </div>
+ 
+        <!-- Mova a search-bar para fora do header-center e acima das categorias -->
+        <div class="search-bar">
+            <input type="text" placeholder="Buscar produtos, marcas e muito mais">
+            <button>🔍</button>
+        </div>
+ 
+        <div class="header-center">
+            <nav>
+                <ul>
+                    <li><a href="#">Categorias</a></li>
+                    <li><a href="#">Ofertas</a></li>
+                    <li><a href="#">Histórico</a></li>
+                    <li><a href="#">Supermercado</a></li>
+                    <li><a href="#">Moda</a></li>
+                    <li><a href="#">Vender</a></li>
+                </ul>
+            </nav>
+        </div>
+ 
+        <div class="user-options">
+            <button>🛒 Compras</button>
+            <button>Login</button>
+            <button>Criar conta</button>
+        </div>
+    </div>
+</header>
+<hr>
+ 
+    <main>
+        <section class="banner">
+            <h1>OS MAIORES ENCONTROS DO ESPORTE!</h1>
+ 
+            <div class="products">
+                <img src="img/camiseta-esportiva.jpg" alt="Camisa">
+                <img src="img/tenis-esportivo.webp" alt="Tênis">
+            </div>
+            <section class="info-boxes">
+                <div class="info-box">
+                    <img src="img/ilustracao-de-avatar-de-estudante-icone-de-perfil-de-usuario-avatar-de-jovem_118339-4406.avif" alt="Entrar na conta">
+                    <p>Entre em sua conta</p>
+                    <span>Aproveite ofertas para comprar tudo o que quiser</span>
+                    <button>Entrar na sua conta</button>
+                </div>
+ 
+                <div class="info-box">
+                    <img src="img/the-local.jpg" alt="Insira sua localização">
+                    <p>Insira sua localização</p>
+                    <span>Confira os custos e prazos de entrega</span>
+                    <button>Inserir sua localização</button>
+                </div>
+ 
+                <div class="info-box">
+                    <img src="img/dinheiro-vetor.jpg" alt="Meios de pagamento">
+                    <p>Meios de pagamento</p>
+                    <span>Pague suas contas com rapidez e segurança</span>
+                    <button>Mostrar meios</button>
+                </div>
+ 
+                <div class="info-box">
+                    <img src="img/100-reais.jpg" alt="Menos de 100 Reais">
+                    <p>Menos de 100 Reais</p>
+                    <span>Confira os produtos com os menores preços</span>
+                    <button>Ver produtos</button>
+                </div>
+ 
+                <div class="info-box">
+                    <img src="img/582933-icone-botao-mais-gratis-vetor.jpg" alt="Mais vendidos">
+                    <p>Mais vendidos</p>
+                    <span>Explore os produtos que são tendências</span>
+                    <button>Mais vendidos</button>
+                </div>
+ 
+                <div class="info-box">
+                    <img src="img/modelo-de-design-vetorial-de-icone-de-carrinho-de-compras_1035722-297.avif" alt="Compra garantida">
+                    <img src="img/png-transparent-font-awesome-thumb-signal-computer-icons-thumbs-up-miscellaneous-hand-thumb-signal.png">
+                    <p>Compra garantida</p>
+                    <span>Você pode devolver suas compras</span>
+                    <button>Como Funciona</button>
+                </div>
+            </section>
+    </main>
+</body>
+</html>
