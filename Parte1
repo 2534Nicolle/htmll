@@ -12,7 +12,7 @@
     <header>
     <div class="header-container">
         <div class="logomerc">
-            <img src="img/the-eagle-logo.jpg" alt="Logo Mercado Livre">
+            <img src="img/mercado-livre.webp" alt="Logo Mercado Livre">
         </div>
  
         <!-- Mova a search-bar para fora do header-center e acima das categorias -->
